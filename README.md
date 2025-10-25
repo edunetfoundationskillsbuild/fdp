@@ -1,2 +1,1 @@
-# fdp
-Faculty Development Program
+# FDP-Faculty Development Program
