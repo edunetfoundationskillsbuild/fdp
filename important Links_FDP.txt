@@ -1,0 +1,17 @@
+***Important Links for IBM Skills Build for Academia -Faculty Develpement Program (FDP)  ***
+1)Link to Zimbra Portal:  https://mail.edunetmail.com/ 
+2)IBM Academic- Register and Log In with EdunetmailID:  https://www.ibm.com/academic/ 
+3)IBM Cloud- Register and Log In with personal GmailID:  https://cloud.ibm.com/login 
+
+4)AI Course Link : https://skills.yourlearning.ibm.com/activity/PLAN-E624C2604060?ngo-id=0330&utm_campaign=aca-Edunet-AI-2025-26
+5)Lab Link (RAG) : https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3824998?ngo-id=0330&utm_campaign=aca-Edunet-RAGLAB-2025-26
+
+6)Code Generation and Optimization Using IBM Granite Course Link: https://skills.yourlearning.ibm.com/activity/MDL-566?ngo-id=0330&utm_campaign=aca-Edunet-CODE-2025-26
+
+
+7)Download Study Materials- 
+https://drive.google.com/drive/folders/1F7wikFEYv7hs2Sf0vOV4VcyhBbPCR1B2?usp=sharing
+
+https://github.com/edunetfoundationskillsbuild/fdp.git
+
+
